@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "881806830475",
+    "firebase_url": "https://uns-fleet-service-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uns-fleet-service",
+    "storage_bucket": "uns-fleet-service.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881806830475:android:2c199dc4b91f408c625d8e",
+        "android_client_info": {
+          "package_name": "com.uns.fleet.automan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-lbgyJY8FeNYsWTu9gCGohhZlNysx7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
