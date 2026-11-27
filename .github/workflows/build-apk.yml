@@ -41,6 +41,9 @@ jobs:
       - name: Sync Capacitor Android assets and plugins
         run: npx cap sync android
 
+      - name: Remove machine-specific Android SDK path
+        run: rm -f android/local.properties
+
       - name: Build debug APK
         working-directory: android
         run: |
